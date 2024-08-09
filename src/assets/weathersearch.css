@@ -1,0 +1,16 @@
+.weather-search-box {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.weather-search-box h1 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.weather-search-box .form-control {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 1rem;
+    padding: 10px;
+}

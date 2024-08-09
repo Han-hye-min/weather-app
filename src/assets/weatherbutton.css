@@ -1,0 +1,20 @@
+.weather-btn{
+    border: 3px solid black;
+    padding: 20px 50px;
+    border-radius: 10px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+}
+.btn:last-child{
+    margin: 0;
+}
+.weather-btn .btn {
+    font-size: 16px;
+    padding: 10px 20px;
+}
+
+.weather-btn .btn-info {
+    background-color: #17a2b8 !important; /* Bootstrap info 기본 색상 */
+    border-color: #17a2b8 !important; /* Bootstrap info 기본 색상 */
+}
